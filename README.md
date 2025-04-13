@@ -7,8 +7,11 @@
 
 <h2 align="left">About Me:</h2>
 
--
--
+My research of interest:
+
+- Computational biology and Genomics
+- Statistical genetics
+- Cancer/molecular biology research utilizing multi-omics such as Genomics, Transcriptomics and Epigenomics
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
