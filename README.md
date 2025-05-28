@@ -45,7 +45,7 @@ My research of interest:
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ducminhnguyenle&show_icons=true&theme=buefy&hide_border=true" alt="Minh Nguyen's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducminhnguyenle&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ducminhnguyenle&" alt="ducminhnguyenle" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ducminhnguyenle" alt="GitHub Streak" /></a>
 
 <h2 align="left">Connect with me:</h2>
 <div align="left">
